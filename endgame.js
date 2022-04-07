@@ -14,7 +14,7 @@ class Endgame{
         
     }
     preload(){
-        this.endpic = loadImage('bilder/Ao.gif')
+        this.endpic = loadImage('bilder/katzen.gif')
 
     }
 }

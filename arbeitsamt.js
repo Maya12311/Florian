@@ -48,14 +48,14 @@ function workLife(){
         const image = document.createElement('img')
 
         document.querySelector('.krawatte').appendChild(image)
-        image.src = '/Images/animiertes-krawatte-bild-0003.gif'
+        image.src = 'bilder/animiertes-krawatte-bild-0003.gif'
         image.style.height = 90 + 'px'
     }
     if(game.work === 2) {
         const image = document.createElement('img')
 
         document.querySelector('.krawatte').appendChild(image)
-        image.src = '/Images/animiertes-krawatte-bild-0003.gif'
+        image.src = 'bilder/animiertes-krawatte-bild-0003.gif'
         image.style.height = 90 + 'px'
 
     }
@@ -63,7 +63,7 @@ function workLife(){
         
         const image = document.createElement('img')
         document.querySelector('.krawatte').appendChild(image)
-        image.src = '/Images/animiertes-krawatte-bild-0003.gif' 
+        image.src = 'bilder/animiertes-krawatte-bild-0003.gif' 
         image.style.height = 90 + 'px'
         const gameOver =  document.getElementById('gameOver')
         gameOver.innerHTML = 'Game Over'

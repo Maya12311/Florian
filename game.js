@@ -87,7 +87,7 @@ class Game {
    this.obstacleImage = loadImage('bilder/giphy.gif')
    this.arbeitsamtImage =loadImage('bilder/arbeitsamtfuck.png')
    this.krawatteImage = loadImage('bilder/animiertes-krawatte-bild-0003.gif')
-   this.lastImage = loadImage('bilder/Ao.gif')
+   this.lastImage = loadImage('bilder/katzen.gif')
    
   // console.log('preload here in Game section')
    } 

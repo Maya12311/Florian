@@ -20,7 +20,7 @@ class Beginn {
            // game.draw()
     }
     preload(){
-        this.startpic = loadImage('/Images/190332-crop0_131_600_468-yjyqncye-v4-2.png')
+        this.startpic = loadImage('bilder/190332-crop0_131_600_468-yjyqncye-v4-2.png')
         
         
        // game.preload()

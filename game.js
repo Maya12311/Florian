@@ -83,11 +83,11 @@ class Game {
 
     
    ]
-   this.playerImage = loadImage('WalkingMan/ZfUU.gif')
-   this.obstacleImage = loadImage('Images/giphy.gif')
-   this.arbeitsamtImage =loadImage('Images/arbeitsamtfuck.png')
-   this.krawatteImage = loadImage('Images/animiertes-krawatte-bild-0003.gif')
-   this.lastImage = loadImage('Images/Ao.gif')
+   this.playerImage = loadImage('laufenderman/ZfUU.gif')
+   this.obstacleImage = loadImage('bilder/giphy.gif')
+   this.arbeitsamtImage =loadImage('bilder/arbeitsamtfuck.png')
+   this.krawatteImage = loadImage('bilder/animiertes-krawatte-bild-0003.gif')
+   this.lastImage = loadImage('bilder/Ao.gif')
    
   // console.log('preload here in Game section')
    } 

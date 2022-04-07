@@ -4,7 +4,7 @@ class Endgame{
         this.x=0
         this.y =0
         this.width =2145
-        this.height = 1000
+        this.height = 1400
        
     }
     draw(){

@@ -1,0 +1,37 @@
+#canvas{
+  
+}
+
+h1{
+text-align: center;
+background-color: red;
+opacity: 50%;
+padding: 0%;
+}
+
+html{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    font-size: 50px;
+    background-color: coral;
+    border: black 10px solid;
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+    display: flex;
+    
+    
+}
+
+.krawatte{
+    text-align: end;
+    justify-content: end;
+    margin-left: 40%;
+}
+
+#gameOver{
+margin-left: 30%;
+
+}
